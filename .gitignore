@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated configs & logs
+netstack_core/configs/
+netstack_core/logs/
+
+# OS noise
+.DS_Store
+Thumbs.db
